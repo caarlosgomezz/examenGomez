@@ -7,3 +7,4 @@
 7. git push -u origin master
 8. mkdir prog si bbdd
 9. touch prog/index.php
+10. cd si && cp ../prog/index.php ../bbdd/consultas.sql && cd ..
