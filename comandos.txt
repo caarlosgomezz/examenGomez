@@ -1,0 +1,7 @@
+1. mkdir examenGomez && cd examenGomez
+2. git init
+3. echo 'Carlos Gomez' > README.md
+4. git add README.md && git commit -m 'first commit'
+5. git branch -M master
+6. git remote add origin https://github.com/caarlosgomezz/examenGomez.git
+7. git push -u origin master
