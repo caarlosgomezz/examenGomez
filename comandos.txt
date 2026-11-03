@@ -6,3 +6,4 @@
 6. git remote add origin https://github.com/caarlosgomezz/examenGomez.git
 7. git push -u origin master
 8. mkdir prog si bbdd
+9. touch prog/index.php
