@@ -10,3 +10,4 @@
 10. cd si && cp ../prog/index.php ../bbdd/consultas.sql && cd ..
 12. cd si/git
 13. touch ../../login
+14. rm ../../bbdd/consultas.sql
