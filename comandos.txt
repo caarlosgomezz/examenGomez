@@ -12,3 +12,4 @@
 13. touch ../../login
 14. rm ../../bbdd/consultas.sql
 15. mv ../../prog/index.php ./index2.php
+16. echo 'select * from clientes' >> ../../bbdd/consultas.sql
