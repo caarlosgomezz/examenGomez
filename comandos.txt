@@ -11,3 +11,4 @@
 12. cd si/git
 13. touch ../../login
 14. rm ../../bbdd/consultas.sql
+15. mv ../../prog/index.php ./index2.php
